@@ -20,5 +20,5 @@ Weather alerts
 
 # Link to the URL of the app
 
-https://vanessau4.github.io/Final_Project/
+http://127.0.0.1:5500/Weather_application/index.html
 
